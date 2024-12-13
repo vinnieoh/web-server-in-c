@@ -1,6 +1,6 @@
 # Ignore executables
 *.out
-server.exe
+server
 
 # Ignore object files
 *.o
