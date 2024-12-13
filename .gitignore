@@ -1,0 +1,41 @@
+# Ignore executables
+*.out
+*.exe
+
+# Ignore object files
+*.o
+
+# Ignore core dumps
+core
+core.*
+
+# Ignore dependency files
+*.d
+
+# Ignore build directories
+/build/
+/bin/
+/obj/
+
+# Ignore temporary files
+*~
+*.tmp
+*.swp
+.DS_Store
+
+# Ignore logs and debug files
+*.log
+*.trace
+
+# Ignore Makefile-generated files
+Makefile
+makefile
+
+# Ignore specific IDE/project files
+.idea/
+.vscode/
+*.code-workspace
+
+# Ignore system-specific files
+Thumbs.db
+Desktop.ini
