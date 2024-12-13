@@ -1,6 +1,6 @@
 # Ignore executables
 *.out
-*.exe
+server.exe
 
 # Ignore object files
 *.o
@@ -28,8 +28,8 @@ core.*
 *.trace
 
 # Ignore Makefile-generated files
-Makefile
-makefile
+#Makefile
+#makefile
 
 # Ignore specific IDE/project files
 .idea/
